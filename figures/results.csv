@@ -1,5 +1,0 @@
-,MAE (₹/qtl),MAPE (%)
-Walk-forward (time-ordered),263.1,17.4
-Random 80/20 split,114.4,7.0
-Baseline: last price (walk-fwd),288.8,18.4
-Baseline: 28-day median (walk-fwd),291.4,19.7
